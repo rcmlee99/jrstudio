@@ -71,7 +71,7 @@ html[xmlns] .slides {display: block;}
 .flexslider li {position: relative; }
 	
 .slider-text {position: absolute; overflow: hidden; min-height: 60px; bottom: 0; padding-left: 40px; padding-right: 50%; padding-bottom: 36px; box-sizing: border-box; -webkit-font-smoothing: antialiased;}
-.slider-title {font-size: 18px; line-height: 1.4; letter-spacing: 2px; text-transform: uppercase; font-weight: normal; color: #fff; font-family: 'Montserrat', 'Trebuchet MS', sans-serif; border-bottom: 1px solid #fff; -webkit-font-smoothing: antialiased;}
+.slider-title {font-size: 18px; line-height: 1.4; letter-spacing: 2px; text-transform: uppercase; font-weight: normal; color: #fff; font-family: 'Roboto', sans-serif; border-bottom: 1px solid #fff; -webkit-font-smoothing: antialiased;}
 a.slider-title:hover {color: #f84545; border-bottom: 1px solid #f84545;}
 .slider-desc { font-size: 14px; color: #fff; line-height: 1.4; margin-top: 16px;}
 
